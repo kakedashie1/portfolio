@@ -1,3 +1,26 @@
-h1 {
-  padding:39px;
+
+header {
+  background-color: rgba(34, 255, 0, 0.952);
+  height: 65px;
+  width: 100%;
+}
+.header-left a {
+  float: left;
+  line-height: 65px;
+
+}
+.header-right a {
+  float: right;
+}
+.header-left {
+}
+
+.header-right {
+  line-height: 65px;
+
+}
+.container {
+  width:1300px;
+  margin:0 auto;
+  background-color: red;
 }
