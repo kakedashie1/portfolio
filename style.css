@@ -3,6 +3,9 @@ header {
   background-color: rgba(34, 255, 0, 0.952);
   height: 65px;
   width: 100%;
+  position:fixed;
+  top:0px;
+  z-index: 10;
 }
 .header-left a {
   float: left;
