@@ -37,6 +37,11 @@ header {
   font-size: 30px;
 }
 
+.work h1 {
+  text-align: center;
+  padding-top: 10px;
+
+}
 .work  {
   text-align: center;
   padding-top: 100px;
