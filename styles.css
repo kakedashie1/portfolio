@@ -1,6 +1,14 @@
 
 * {
   box-sizing: border-box;
+
+}
+
+body {
+  background-image: url(白　水色　シンプル　格言　フェミニン　エレガント　Instagram投稿.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 
