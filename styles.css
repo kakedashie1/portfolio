@@ -1,4 +1,10 @@
 
+* {
+  box-sizing: border-box;
+}
+
+
+
 header {
   background-color: rgba(34, 255, 0, 0.952);
   height: 65px;
@@ -22,7 +28,7 @@ header {
 
 }
 .container {
-  width:1300px;
+  width:100%;
   margin:0 auto;
 }
 
