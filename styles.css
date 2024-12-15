@@ -47,10 +47,16 @@ header {
 
 .header-list  {
   float: right;                /* Flexboxでレイアウト制御 */
-  height: 50px;
+  height: 65px;
+  transition: all 0.5s;
 
 
 }
+
+.header-list :hover {
+  background-color: rgba(225, 215, 215, 0.9);
+}
+
 
 .header-list a {
   display:block;               /* インライン要素をブロック化 */
