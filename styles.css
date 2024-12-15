@@ -21,20 +21,32 @@ header {
   top:0px;
   z-index: 10;
 }
-.header-left a {
+.header-logo  {
+  float: left;
+  padding-left: 30px;
+
+}
+.header-logo a {
+  line-height: 65px;
+  display: block;
+
+
+
+}
+.header-list  {
+  float: right;
+
+}
+
+.header-list a {
+  padding-right: 30px;
   float: left;
   line-height: 65px;
+  display: block;
 
 }
-.header-right a {
-  float: right;
-}
 
 
-.header-right {
-  line-height: 65px;
-
-}
 .container {
   width:100%;
   margin:0 auto;
