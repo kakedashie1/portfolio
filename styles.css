@@ -102,6 +102,11 @@ header {
   padding-top: 100px;
 
 }
+.profile {
+max-width: 100%;
+margin: 0 auto;
+
+}
 .profiles {
   text-align: center;
 
@@ -110,7 +115,8 @@ header {
 .career {
   display: inline-block;
   text-align: left;
-  max-width: 500px;
+  max-width: 100%;
+  box-sizing: border-box;
 
 
 
