@@ -14,4 +14,8 @@
   .menu-icon {
     display: block !important;
   }
+
+  .career {
+    max-width: 300px;
+  }
 }
