@@ -4,3 +4,14 @@
     flex-direction: column;
   }
 }
+
+@media all and (max-width:670px) {
+  .header-list {
+    display: none;
+
+  }
+
+  .menu-icon {
+    display: block !important;
+  }
+}

@@ -9,6 +9,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
+  margin: 0;
 }
 
 
@@ -74,6 +75,15 @@ header {
 
 
 
+}
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px ;
+  /* displayをnoneに指定してください */
+  display: none !important;
 }
 
 
