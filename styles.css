@@ -8,7 +8,7 @@ body {
   background-image: url(background.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100vh;
+  /* height: 100vh; */
   margin: 0;
 
 }
@@ -110,7 +110,6 @@ header {
 .career {
   display: inline-block;
   text-align: left;
-  width: 90%;
   max-width: 500px;
 
 
