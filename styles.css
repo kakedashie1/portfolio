@@ -10,6 +10,7 @@ body {
   background-repeat: no-repeat;
   height: 100vh;
   margin: 0;
+
 }
 
 
@@ -101,17 +102,21 @@ header {
   padding-top: 100px;
 
 }
-.profile {
+.profiles {
   text-align: center;
 
 
 }
-.profile li{
-  text-align: center;
-  list-style: none;
+.career {
+  display: inline-block;
+  text-align: left;
+  width: 90%;
+  max-width: 500px;
+
 
 
 }
+
 
 
 
