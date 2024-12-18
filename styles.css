@@ -1,6 +1,8 @@
 
 * {
   box-sizing: border-box;
+  /* max-width: 1170px;
+  margin: 0 auto; */
 
 }
 
@@ -91,6 +93,7 @@ header {
 .container {
   width:100%;
   margin:0 auto;
+  max-width: 1280px;
 
 
 }
