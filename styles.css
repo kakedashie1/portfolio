@@ -143,20 +143,28 @@ line-height: 2;
 
 
 
-
+.work-wrapper {
+  text-align: center;
+}
 
 
 .work h1 {
-  text-align: center;
-  padding-top: 10px;
   font-size: 50px;
 
 }
 .work  {
-  text-align: center;
-  padding-top: 100px;
 
 }
+
+.work img {
+  float: left;
+  width: 33%;
+  height: auto;
+  padding: 0.75rem;
+  display: inline-block;
+
+}
+
 .skill  {
   text-align: center;
 
