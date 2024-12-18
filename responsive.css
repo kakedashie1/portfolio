@@ -15,6 +15,19 @@
     display: block !important;
   }
 
-  .career {
+  .item {
+    font-size: 30px;
+  }
+
+  .text-contents {
+    font-size: 15px;
+  }
+
+  .work h1 {
+    font-size: 30px;
+  }
+
+  .skill h1 {
+    font-size: 30px;
   }
 }

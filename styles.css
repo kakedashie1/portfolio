@@ -129,7 +129,17 @@ text-size-adjust: 100%;
 }
 
 .profile p {
-line-height: 2;}
+line-height: 2;
+}
+
+
+.text-contents {
+  font-size: 25px;
+}
+
+.item {
+  font-size: 50px;
+}
 
 
 
@@ -139,6 +149,7 @@ line-height: 2;}
 .work h1 {
   text-align: center;
   padding-top: 10px;
+  font-size: 50px;
 
 }
 .work  {
@@ -150,6 +161,19 @@ line-height: 2;}
   text-align: center;
 
 }
+
+.skill h1 {
+  font-size: 50px;
+}
+
+.skills {
+  text-align: left;
+  max-width: 100%;
+  width: auto;
+  display: inline-block;
+  text-size-adjust: 100%;
+}
+
 
 footer {
   text-align: center;
