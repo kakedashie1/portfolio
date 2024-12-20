@@ -89,6 +89,41 @@ header {
   display: none !important;
 }
 
+.menu {
+  display: none; /* 初期状態では非表示 */
+  position: absolute;
+  top: 0px;
+  right: 0;
+  background-color: #f9f9f9;
+  width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.menu.open {
+  display: block;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu ul li {
+  border-bottom: 1px solid #ddd;
+}
+
+.menu ul li a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.menu ul li a:hover {
+  background-color: #eee;
+}
+
 
 .container {
   width:100%;
